@@ -1,2 +1,2 @@
 # github-website
-gotr hosting site
+github hosting site
